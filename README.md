@@ -1,3 +1,6 @@
+### This code is associated with the paper from Watson et al., "Impact of seasonal variations in Plasmodium falciparum malaria transmission on the surveillance of pfhrp2 gene deletions". eLife, 2019. http://dx.doi.org/10.7554/eLife.40339. It is an archived version of the code at https://github.com/OJWatson/hrp2malaRia, which was previously forked for archiving purposes as https://github.com/elifesciences-publications/hrp2malaRia on publication of the original Watson et al., 2017 mentioned below.
+
+
 # hrp2malaRia
 
 Individual based malaria transmission model for the study of *P. falciparum* *pfhrp2* gene deletions. The model is an extension of the Imperial College transmission model used as part of the [Global Technical Strategy 2030 costing exercise](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(15)00423-5/fulltext), and was used to characterise the drivers of *pfhrp2* deletion selection in the following publication:
